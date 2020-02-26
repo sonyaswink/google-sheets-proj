@@ -2,11 +2,9 @@
 
 # First Pitch
 
-## QUESTION/HEDE: The US Population is Aging into Dementia, and Will The Sandwich Generation Be Hurt by it
+## QUESTION/HEDE: The US Population is Aging into Dementia, Will The Sandwich Generation Be Hurt by it?
 
-### HYPOTHESIS: The Sandwich Generation, people caring for a young child and an aging parent, is being covered more and more in the news. This is twelve percent of Americans in the U.S. https://www.nytimes.com/2020/02/11/parenting/sandwich-generation-costs.html
-
-### Now, as dementia and Alzheimer's are being reported as a growing trend, along with the population living longer, will those people caring for children have to care for a parent with mental diseases? Or is the data just showing diagnoses and a leveling-off?
+### HYPOTHESIS: The Sandwich Generation, people caring for a young child and an aging parent, is being covered more and more in the news. This is twelve percent of Americans in the U.S. Now, as dementia and Alzheimer's are being reported as a growing trend, along with the population living longer, will those people caring for children have to care for a parent with mental diseases? Or is the data just showing diagnoses and a leveling-off? https://www.nytimes.com/2020/02/11/parenting/sandwich-generation-costs.html
 
 #### Many Americans aren't worried at all about their aging parents being an issue. https://www.pewresearch.org/global/2014/01/30/attitudes-about-aging-a-global-perspective/
 
